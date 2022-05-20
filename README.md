@@ -1,0 +1,2 @@
+# Restaurant-Reviewer
+The Restaurant Reviews application allows a user to provide and look up reviews for different restaurants. Users can see the basic information of a restaurant and the average rating for each restaurant from all the reviews available. They can sort the restaurants according to their average ratings and names. Users can also search a particular restaurant by its name, zip code, or state. Restaurant and review records can all be edited or deleted.
